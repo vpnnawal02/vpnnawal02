@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vpnnawal02
 - 👀 I’m interested in COMPUTER SCIENCE
-- 🌱 I’m currently learning PYTHON and ETHICAL HACKING
+- 🌱 I’m currently learning PYTHON
 - 📫 How to reach me Instagram : vipin_nawal
 
 <!---
